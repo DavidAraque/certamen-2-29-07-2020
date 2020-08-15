@@ -1,0 +1,7 @@
+C:\Users\da_ar\source\repos\Certamen2 29-07-2020\ejercicio_1\bin\Debug\ejercicio_1.exe.config
+C:\Users\da_ar\source\repos\Certamen2 29-07-2020\ejercicio_1\bin\Debug\ejercicio_1.exe
+C:\Users\da_ar\source\repos\Certamen2 29-07-2020\ejercicio_1\bin\Debug\ejercicio_1.pdb
+C:\Users\da_ar\source\repos\Certamen2 29-07-2020\ejercicio_1\obj\Debug\ejercicio_1.csprojAssemblyReference.cache
+C:\Users\da_ar\source\repos\Certamen2 29-07-2020\ejercicio_1\obj\Debug\ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\da_ar\source\repos\Certamen2 29-07-2020\ejercicio_1\obj\Debug\ejercicio_1.exe
+C:\Users\da_ar\source\repos\Certamen2 29-07-2020\ejercicio_1\obj\Debug\ejercicio_1.pdb
